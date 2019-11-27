@@ -1,0 +1,7 @@
+A knowledge base is a set of all kind of information about a particular entity and their inter-relations.
+A knowledge base can contain knowledge about an entity, collected from different sources. 
+
+Whereas, a Knowledge Graph is a networked structure representing a connection of various entities with
+another entities which can describe each other as well as it self.  A knowledge graph helps the people
+as well a search engines understand the information better, and it also helps to find a solution to a 
+query much faster.
